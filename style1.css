@@ -3,25 +3,25 @@
     padding: 0;
   }
   
-  .container {
+.container {
     display: flex;
   }
   
-  /* meniu stanga */
-  .side {
+/* meniu stanga */
+.side {
     background:  lightgoldenrodyellow;
     width: 330px;
     height: 775px;
   }
  
-  /* meniu dreapta */
-  .content {
+/* meniu dreapta */
+.content {
     width: 650px;
     background:  lightgoldenrodyellow;
   }
 
-  /* poza background */
-  /* .extra {
+/* poza background */
+/* .extra {
     position: absolute;
     width: 100%;
     opacity: 0.2;
@@ -30,46 +30,46 @@
 /* unvisited link */
 a {
   color: black;
-}
+  }
 
 /* visited link */
 a:visited {
   color:blue;
-}
+  }
 
 /* selected link */
 a:active {
   color:black;
-}
+  }
 
 /* mouse over link */
 a:hover {
   color: red;
-}
+  }
 
 a { 
   text-decoration: none; 
-}
+  }
 
 /* link- meniu stanga */
 p {
   margin-inline-start: 110px;
   margin-top: 70px;
-}
+  }
 
 .beagle {
   margin-inline-start: 110px;
   margin-top: 11px;
-}
+  }
 .poodle {
   margin-inline-start: 110px;
   margin-top: 11px;
-}
+  }
 
 .german {
   margin-inline-start: 110px;
   margin-top: 10px;
-}
+  }
 
 /* linie mijloc */
 .vl {
@@ -79,52 +79,50 @@ p {
   left: 338px;
   margin-left: -8px;
   top: 65px;
- }
+  }
 
 /* imagine */
 .image-beagle {
   margin-top: 70px;
   margin-left: 170px;
- }
+  }
 
 .face {
   border-radius: 100%
-}
+  }
 
 .circleborder {
   border: 5px solid #636262;
   border-radius: 100%;
   display: inline-block;
   height: 200px;
-}
+  }
 
 /* text lista*/
-
 article {
   margin-inline-start: 20px;
   margin-top: 27px;
   margin-right: 130px;
-}
+  }
 
 span {
   margin-inline-start: 10px;
-}
+  }
 
 .font {
   font-size: x-small;
-}
+  }
 
 strong {
   margin-top: 15px;
   display: inline-block;
   width: 66px;
-}
+  }
 
 /* text */
-
 .text {
   margin-top: 10px;
-}
+  }
 
 
 

@@ -3,54 +3,62 @@
     width: 100%;
     opacity: 0.2;
   }
+
 .align {
     width: 1500px;
     margin: 0;
-}
+  }
 
- header {
+header {
      padding-top: 35px;
      padding-left: 375px;
      font-size: x-small;
      padding-right: 415px
- }
- .titlu1 {
+  }
+ 
+.titlu1 {
      padding-left: 350px;
- }
- .titlu2 {
+  }
+ 
+.titlu2 {
      padding-left: 15px;
- }
- .titlu3 {
+  }
+ 
+.titlu3 {
      padding-top: 24px;
- }
- .greyitalic {
+  }
+ 
+.greyitalic {
      padding-top: 3px;
     font-size: x-small;
     color: rgb(143, 139, 139);
-}
+  }
 .section {
     padding-top: 12px;
     padding-left: 378px;
     padding-right: 420px;
     font-size: small;
     line-height: 31px;
-}
+  }
+
 .section1 {
     padding-top: 28px;
-}
+  }
+
 .footer {
     padding-top: 12px;
     padding-left: 378px;
     padding-right: 420px;
     font-size: small;
     line-height: 31px;
-}
+  }
+
 /* unvisited link */
 a {
     color: black;
   }
 /* visited link */
-  a:visited {
+a:visited {
     color:black;
   }
 /* selected link */
@@ -61,7 +69,9 @@ a:active {
 a:hover {
     color: red;
   }
-a { text-decoration: none; }
+a { 
+  text-decoration: none; 
+  }
 
   
  
